@@ -20,8 +20,8 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": 0.056829090000004356,
-        "pitch": 0,
+        "yaw": -0.09961445559250848,
+        "pitch": 0.2872988184878036,
         "fov": 1.4450773171985711
       },
       "linkHotspots": [
@@ -399,11 +399,11 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Suprema Market",
+  "name": "SupremaMarket",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
-    "fullscreenButton": true,
+    "autorotateEnabled": false,
+    "fullscreenButton": false,
     "viewControlButtons": false
   }
 };
