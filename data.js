@@ -400,8 +400,8 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": 0.1342785625928471,
-        "pitch": -0.15083239764458511,
+        "yaw": -2.893419727491903,
+        "pitch": 0.3053602380213718,
         "fov": 1.4108347438219848
       },
       "linkHotspots": [
@@ -410,6 +410,12 @@ var APP_DATA = {
           "pitch": -0.22963462767548748,
           "rotation": 0,
           "target": "7-spring-hall-entrance"
+        },
+        {
+          "yaw": -2.743215361488172,
+          "pitch": 0.31760541065112946,
+          "rotation": 0,
+          "target": "9-spring-hall-stage"
         }
       ],
       "infoHotspots": []
@@ -443,12 +449,6 @@ var APP_DATA = {
         "fov": 1.4108347438219848
       },
       "linkHotspots": [
-        {
-          "yaw": 1.383716890030552,
-          "pitch": 0.14172244013313318,
-          "rotation": 0,
-          "target": "1-lower-atrium"
-        },
         {
           "yaw": -3.116296576394843,
           "pitch": -0.14424974607829988,
@@ -698,6 +698,24 @@ var APP_DATA = {
           "pitch": 0.3200594983331264,
           "rotation": 0,
           "target": "16-rivoli-aisle"
+        },
+        {
+          "yaw": -1.898496281874305,
+          "pitch": -0.047088452769067146,
+          "rotation": 0,
+          "target": "11-black-box-stage"
+        },
+        {
+          "yaw": -2.593117748257381,
+          "pitch": 0.24801947283754622,
+          "rotation": 0,
+          "target": "13-black-box-floor"
+        },
+        {
+          "yaw": -2.581002960975386,
+          "pitch": 0.0030355299440074646,
+          "rotation": 0,
+          "target": "10-black-box-entrance"
         }
       ],
       "infoHotspots": []
